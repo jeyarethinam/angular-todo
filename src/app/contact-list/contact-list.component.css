@@ -1,0 +1,16 @@
+.mat-toolbar-row, .mat-toolbar-single-row {
+    height: 64px;
+    background-color: darkmagenta;
+    color: white;
+    font-weight: bold;
+}
+.toolbar-spacer{
+    flex: 1 1 auto;
+}
+.example-icon {
+    padding: 0 14px;
+  }
+  
+  .example-spacer {
+    flex: 1 1 auto;
+  }
